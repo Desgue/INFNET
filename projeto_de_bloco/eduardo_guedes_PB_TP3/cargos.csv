@@ -1,0 +1,6 @@
+codigo,descricao,salario_base,nivel,beneficios
+1,Assistente Administrativo,2500.00,estagiário,Vale-transporte
+2,Desenvolvedor Júnior,5000.00,técnico,Plano de saúde
+3,Analista de Sistemas,7500.00,analista,VR + VA
+4,Gerente de Projetos,10000.00,gerente,Carro empresa
+5,Diretor Executivo,18000.00,diretor,Bônus anuais

@@ -1,0 +1,11 @@
+codigo,nome,cod_cargo,cod_departamento,salario,data_admissao
+1,João Silva,3,1,8500.00,2020-03-15
+2,Maria Oliveira,2,2,5500.00,2021-06-20
+3,Carlos Souza,4,3,12000.00,2019-11-01
+4,Ana Costa,1,4,3000.00,2023-01-10
+5,Pedro Santos,5,5,20000.00,2018-05-12
+6,Juliana Pereira,2,1,5800.00,2022-09-05
+7,Lucas Mendes,3,2,8200.00,2020-08-15
+8,Fernanda Lima,4,4,11500.00,2021-04-30
+9,Rafael Alves,1,5,3200.00,2023-03-01
+10,Patrícia Rocha,5,3,22000.00,2017-12-10
